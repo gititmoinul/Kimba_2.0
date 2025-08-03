@@ -1,2 +1,23 @@
 # Kimba_2.0
-Kimba Version 2.0 process Digicam photos for community websites. It allows previewing, selecting, editing, and batch processing images with watermarking. Outputs include cover, big, and thumbnail versions, all compressed into a ZIP file for easy web upload.
+Kimba2.0 Testing Repository
+Overview
+This repository contains the testing deliverables created during the testing of the Kimba2.0 application. The goal of this repository is to maintain and share testing artifacts, ensuring transparency and traceability of the testing process.
+
+Contents
+Test Survey – Provides an overview of the testing strategy, scope, and environment details used for the Kimba2.0 testing cycle.
+
+Quality Report – Summarizes the overall quality status of the application, including defects, test execution results, and key quality metrics.
+
+Purpose
+Document testing approach and coverage.
+
+Track and report overall application quality.
+
+Provide reference artifacts for future testing and audits.
+
+Tools & Technologies
+Test Management: [Jira,TestRail,Excel]
+
+Reporting: [Excel,PDF]
+
+
