@@ -1,5 +1,5 @@
 # Kimba_2.0
-Kimba2.0 Testing Repository
+
 Overview
 This repository contains the testing deliverables created during the testing of the Kimba2.0 application. The goal of this repository is to maintain and share testing artifacts, ensuring transparency and traceability of the testing process.
 
